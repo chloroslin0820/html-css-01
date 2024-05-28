@@ -339,6 +339,7 @@ nav ul li a:hover {
 
 /* heading */
 .collection-heading {
+  margin-top: 60px;
   text-align: center;
 }
 .collection-heading h1 {
@@ -366,7 +367,7 @@ nav ul li a:hover {
   margin: 0 6%;
   display: flex;
   flex-wrap: wrap;
-  margin-bottom: 300px;
+  margin-bottom: 200px;
 }
 .cards .card {
   max-width: 400px;
