@@ -307,7 +307,7 @@ nav ul li a {
   text-decoration: none;
   padding-right: 36px;
   color: #444;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 nav ul li a:hover {
   text-decoration: underline;
@@ -453,7 +453,7 @@ nav ul li a:hover {
 }
 .grid .grid-item input[type="email"] {
   width: 90%;
-  padding: 4px 0 4px 28px;
+  padding: 4px 0 4px 14px;
   font-size: 20px;
 }
 .grid .grid-item input[type="email"]:focus {
@@ -461,17 +461,17 @@ nav ul li a:hover {
   outline: none;
 }
 .grid .grid-item input[type="email"]::placeholder {
-  font-size: 16px;
+  font-size: 15px;
 }
 .grid .grid-item input[type="submit"] {
   position: absolute;
-  right: 5%;
+  right: 7%;
   top: 9%;
   width: 30%;
   cursor: pointer;
   background-color: #eee;
   border: none;
-  font-size: 18px;
+  font-size: 14px;
 }
 @media only screen and (max-width: 768px) {
   .grid {
